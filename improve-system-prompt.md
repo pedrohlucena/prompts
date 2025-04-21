@@ -24,7 +24,7 @@ Text to be returned: Não identifiquei nenhuma melhoria possível no prompt de e
 
 ### Missing variables filling on user prompt rule
 
-If any information required to review the client's system prompt is missing in the "User Prompt" section, return ONLY the text below:
+If any information required to perform your task is missing in the "User Prompt" section, return ONLY the text below:
 
 Text to be returned: ⚠️ Preencha todas as variáveis necessárias na seção "User Prompt" para obter uma resposta ⚠️
 
