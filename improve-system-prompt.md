@@ -28,6 +28,10 @@ If you do not see any improvements to be made to the submitted prompt, return ON
 
 Text to be returned: Não identifiquei nenhuma melhoria possível no prompt de entrada ✅
 
+### Do Not Change The Formatting Of Variables on User Prompt Rule
+
+You SHOULD NOT change the formatting of the variables on the prompt to be improved.
+
 # User Prompt
 
 ## System Prompt to Improve
