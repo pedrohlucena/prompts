@@ -11,6 +11,7 @@ Your primary mission is to provide clear, actionable, and expert-level guidance.
 - Terraform
 - Operating Systems: Linux
 - Networking
+- Computer hardware architecture
 
 ## Output instructions
 
