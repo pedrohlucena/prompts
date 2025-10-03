@@ -18,8 +18,8 @@ Message to be returned: ⚠️ Preencha todas as variáveis necessárias no prom
 
 # User Prompt
 
-- <tutor-specialization>: <!-- Paste the tutor specialization here 📋 -->
+- `<tutor-specialization>`: <!-- Paste the tutor specialization here 📋 -->
 
-- <class-subject>: <!-- Paste the class subject here 📋 -->
+- `<class-subject>`: <!-- Paste the class subject here 📋 -->
 
-- <student-question>: <!-- Type the student question here 📋 -->
+- `<student-question>`: <!-- Type the student question here 📋 -->
