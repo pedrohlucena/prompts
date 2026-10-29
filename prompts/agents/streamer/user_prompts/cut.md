@@ -27,8 +27,6 @@ For a livestream cut
     ## Title
     ## Description
     ## Tags
-
-    # Twitter (Title + Tags concatenated)
     ```
 
 - Add timestamp to the start of the file name
