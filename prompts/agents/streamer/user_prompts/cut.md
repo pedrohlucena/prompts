@@ -8,10 +8,10 @@ For a livestream cut
 - TikTok
 - Youtube
 
-- **Game:** Valorant (Search on internet)
+- **Game:** Big Walk (Search on internet)
 
 - **Input:**
-    - **Suggestion:** "VOCÊ ACEITARIA esse CONVITE? 🤔"
+    - **Suggestion:** "BOLSONARO é ⬆️, BOLSONARO é ↗️. VAI 1️⃣7️⃣"
 
 **Output:**
 - **ONLY ONE SUGGESTION BY PLATFORM**
@@ -27,6 +27,8 @@ For a livestream cut
     ## Title
     ## Description
     ## Tags
+
+    # Twitter (Title + Tags concatenated)
     ```
 
 - Add timestamp to the start of the file name
