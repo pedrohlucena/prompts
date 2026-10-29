@@ -1,0 +1,1 @@
+is worth to start to post my live cuts on x (twitter)? is it strong for short videos? games

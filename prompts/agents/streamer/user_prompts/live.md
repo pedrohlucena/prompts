@@ -3,10 +3,9 @@
 - Youtube (Livestream)
 - TikTok
 
-**Game:** "Call of Duty: Black Ops II" (Search on internet)
-
 **Input:**
-- **Livestream title suggestion:** "FERIADÃO e OPERAÇÕES PRETAS 2 ⚫ - Call of Duty: Black Ops II"
+- **Livestream title suggestion:** "o PAPAI está M0 RT 0!!! - Resident Evil 7: Biohazard"
+    - Add an emoji to the tittle
 
 **Output:**
 - Suggestion of a:
@@ -19,4 +18,4 @@
 
     For a livestream
 
-- Write a .txt file in ${REPOSITORY_ROOT}/outputs
+- Write a .txt file in ${REPOSITORY_ROOT}/outputs 
