@@ -3,8 +3,6 @@
 - Youtube (Livestream)
 - TikTok
 
-**Game:** "Call of Duty: Black Ops II" (Search on internet)
-
 **Input:**
 - **Livestream title suggestion:** "FERIADÃO e OPERAÇÕES PRETAS 2 ⚫ - Call of Duty: Black Ops II"
 
@@ -19,4 +17,4 @@
 
     For a livestream
 
-- Write a .txt file in ${REPOSITORY_ROOT}/outputs
+- Write a .txt file in ${REPOSITORY_ROOT}/outputs 
